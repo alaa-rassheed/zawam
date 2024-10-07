@@ -1,0 +1,111 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_gastroenterology";
+    src: url("../fonts/pbmit-xcare-gastroenterology-icon/flaticon_gastroenterologye879.woff2?eddadc362278e1abf35791787f0ffa8f") format("woff2"),
+        url("../fonts/pbmit-xcare-gastroenterology-icon/flaticon_gastroenterologye879.woff?eddadc362278e1abf35791787f0ffa8f") format("woff"),
+        url("../fonts/pbmit-xcare-gastroenterology-icon/flaticon_gastroenterologye879.eot?eddadc362278e1abf35791787f0ffa8f#iefix") format("embedded-opentype"),
+        url("../fonts/pbmit-xcare-gastroenterology-icon/flaticon_gastroenterologye879.ttf?eddadc362278e1abf35791787f0ffa8f") format("truetype"),
+        url("../fonts/pbmit-xcare-gastroenterology-icon/flaticon_gastroenterologye879.svg?eddadc362278e1abf35791787f0ffa8f#flaticon_gastroenterology") format("svg")
+}
+
+i[class^="pbmit-xcare-gastroenterology-icon-"]:before,
+i[class*=" pbmit-xcare-gastroenterology-icon-"]:before {
+    font-family: flaticon_gastroenterology !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-zawam-gastroenterology-icon-stomach:before {
+    content: "\f101";
+}
+
+.pbmit-zawam-gastroenterology-icon-colon:before {
+    content: "\f102";
+}
+
+.pbmit-zawam-gastroenterology-icon-gastroenterologist:before {
+    content: "\f103";
+}
+
+.pbmit-zawam-gastroenterology-icon-gastroenterologist-1:before {
+    content: "\f104";
+}
+
+.pbmit-zawam-gastroenterology-icon-medicine:before {
+    content: "\f105";
+}
+
+.pbmit-zawam-gastroenterology-icon-stomach-1:before {
+    content: "\f106";
+}
+
+.pbmit-zawam-gastroenterology-icon-examination:before {
+    content: "\f107";
+}
+
+.pbmit-zawam-gastroenterology-icon-surgery-room:before {
+    content: "\f108";
+}
+
+.pbmit-zawam-gastroenterology-icon-probiotic:before {
+    content: "\f109";
+}
+
+.pbmit-zawam-gastroenterology-icon-bacteria:before {
+    content: "\f10a";
+}
+
+.pbmit-zawam-gastroenterology-icon-medicine-1:before {
+    content: "\f10b";
+}
+
+.pbmit-zawam-gastroenterology-icon-ultrasound:before {
+    content: "\f10c";
+}
+
+.pbmit-zawam-gastroenterology-icon-no-fast-food:before {
+    content: "\f10d";
+}
+
+.pbmit-zawam-gastroenterology-icon-analysis:before {
+    content: "\f10e";
+}
+
+.pbmit-zawam-gastroenterology-icon-pain:before {
+    content: "\f10f";
+}
+
+.pbmit-zawam-gastroenterology-icon-stomach-2:before {
+    content: "\f110";
+}
+
+.pbmit-zawam-gastroenterology-icon-hepatology:before {
+    content: "\f111";
+}
+
+.pbmit-zawam-gastroenterology-icon-liver-cancer:before {
+    content: "\f112";
+}
+
+.pbmit-zawam-gastroenterology-icon-fatty-liver:before {
+    content: "\f113";
+}
+
+.pbmit-zawam-gastroenterology-icon-stomachache:before {
+    content: "\f114";
+}
